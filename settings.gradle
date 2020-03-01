@@ -1,2 +1,3 @@
 rootProject.name='Progress Bar'
 include ':app'
+include ':pbar'
